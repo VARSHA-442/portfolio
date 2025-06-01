@@ -4,19 +4,19 @@ import './portfolio.css';
 const Portfolio = () => {
   const projects = [
     {
-      title: "Blood-Donation",
-      description: "A web application for blood donation management Using React.",
-      link: "https://github.com/VARSHA-442/Blood-Donation"
-    },
-    {
-      title: "Stock-Project",
-      description: "Built a stock info website using HTML, CSS, and JavaScript.",
-      link: "https://github.com/VARSHA-442/Stock-Project"
+      title: "Portfolio",
+      description: "A responsive portfolio website built with React to showcase projects and skills.",
+      link: "https://github.com/VARSHA-442/portfolio"
     },
     {
       title: "AI-Health-Bot",
       description: "Developed a Streamlit app for symptom transcription, disease prediction.",
       link: "https://github.com/VARSHA-442/AI-Health-Bot"
+    },
+    {
+      title: "Blood-Donation",
+      description: "A web application for blood donation management Using React.",
+      link: "https://github.com/VARSHA-442/Blood-Donation"
     }
   ];
 
