@@ -14,9 +14,9 @@ const Portfolio = () => {
       link: "https://github.com/VARSHA-442/Stock-Project"
     },
     {
-      title: "TO-DO-LIST",
-      description: "Developed a to-do list application using React.",
-      link: "https://github.com/VARSHA-442/to-do-list"
+      title: "AI-Health-Bot",
+      description: "Developed a Streamlit app for symptom transcription, disease prediction.",
+      link: "https://github.com/VARSHA-442/AI-Health-Bot"
     }
   ];
 
